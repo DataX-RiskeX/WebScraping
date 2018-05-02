@@ -15,7 +15,7 @@ The following represent a collaborative project for identifying, processing, pre
 For this project we decided to split our overall scope into three steps. 
  
 #### I. Data Cleaning
-    1) Web Scrapping and/or API utilization
+    1) Web Scraping and/or API utilization
     2) IMetadata Extraction
     3) Preprocessing and Writing
 
@@ -60,21 +60,23 @@ Multiple python notebooks (Jupyter) were written in order to carry out project. 
     
     many_df_to_one(3o3)
         
-2) Time Series Modeling and Event Detection (in no particular order): 
+2) Time Series Modeling and Event Detection (in order): 
 
-    <name to be included upon completion>	
+    price_change_marker	
     
-    <name to be included upon completion>
-  
-    <name to be included upon completion>
+    filter_news_by_marker
 
-3) Natural Language Processing and Formulations:
+3) Natural Language Processing and Formulations (in order):
 
-    <name to be included upon completion>
+    clean_articles_final(1o2)
     
-    <name to be included upon completion>
+    clean_articles_final(2o2)
+     
+ 4) Classificatin and Modeling:
+
+    Word2Vec_and_KMeans_clustering
     
-    <name to be included upon completion>
+    Final_Classification
   
   
   
